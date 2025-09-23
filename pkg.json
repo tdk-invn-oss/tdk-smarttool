@@ -1,1 +1,9 @@
-[]
+[
+	{
+		"part" 		: "ICM50607",
+		"version" 	: "1.0.1-test3",
+		"path" 		: "https://github.com/tdk-invn-oss/tdk-smarttool/raw/refs/heads/main/pkg/SmartMotion/invn.firmware.emd-mcu.icm50607_smarttoolapp-atmel.arm-gnu-toolchain-cm4-fpu-1.0.0-test1.tar.gz",
+		"category"	: "SmartMotion",
+		"release date" : "2025-09-26"
+	}
+]
